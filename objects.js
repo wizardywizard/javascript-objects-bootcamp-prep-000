@@ -2,7 +2,7 @@ var playlist={
   artist: 'ACDC',
   song: 'thunderstruck'
 }
-function updatePlaylist (playlist,) {
+function updatePlaylist (playlist,artistname,) {
   
   
 }
