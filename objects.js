@@ -1,6 +1,5 @@
 var playlist={ 
-  artist: 'ACDC'
+  artist: 'ACDC',
   song: 'thunderstruck'
-  
 }
 
