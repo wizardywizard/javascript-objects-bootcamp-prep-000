@@ -7,6 +7,6 @@ playlist['Phil Ochs'] = "here's to the State of Mississippi"
   return updatePlaylist
 }
 function removeFromPlaylist(playlist,artistName) {
-  
+  delete playlist.slowdive
   
 }
