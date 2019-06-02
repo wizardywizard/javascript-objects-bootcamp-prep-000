@@ -3,6 +3,6 @@ var playlist={
   song: 'thunderstruck'
 }
 function updatePlaylist (playlist,artistName,songTitle) {
- var updatePlaylist={'Slowdive':'Alison','My Bloody Valentine':
+ var updatePlaylist={'Slowdive':'Alison','My Bloody Valentine':'Sometimes','Phil Ochs':""
   return updatePlaylist
 }
