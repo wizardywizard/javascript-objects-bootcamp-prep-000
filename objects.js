@@ -5,5 +5,5 @@ var playlist={
 function updatePlaylist (playlist,artistName,songTitle) {
   updatePlaylist[artistName] = 'Phil Ochs';
   updatePlaylist[songTitle] = 'My Bloody Valentine';
-  
+  return updatePlaylist
 }
